@@ -47,29 +47,44 @@ Busco sempre aprimorar meus conhecimentos como <code>Dev</code> e como pessoa, a
 
 <div align="center">
 <table>
+  <tr>
+      <h3>🔥 Streak Stats</h3>
+
+  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+  <p>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+      <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats-9m8ugfa77-miguelasdp.vercel.app/?user=miguelasdp1&theme=slateorange&hide_border=true"/>
+    </a>
+    <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+  </p>
+  </tr>
+</table>
+<table>
 <tr>
 <td>
-<img alt="GitHub Stats" width="300px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=miguelasdp&theme=github_dark"/>
+<img alt="GitHub Stats" width="300px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=miguelasdp&theme=slateorange"/>
 </td>
 <td>
-<img alt="GitHub Top Langs" width="300px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=miguelasdp&theme=github_dark"/>
+<img alt="GitHub Top Langs" width="300px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=miguelasdp&theme=slateorange"/>
 </td>
 </tr>
 </table>
 <table>
 <tr align="center">
 <td>
-<img alt="GitHub Details" width="600px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miguelasdp&theme=github_dark"/>
-</td>
+<img alt="GitHub Details" width="600px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miguelasdp&theme=slateorange"/>
 </tr>
 </table>
 </div>
 
 -----
-
-<img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=miguelasdp&style=for-the-badge&abbreviated=true&color=orange" width=150><br />
-<img alt="Followers" src="https://img.shields.io/github/followers/miguelasdp?style=social" width=125/>
+  <div align="center">
+  <a href="https://github.com/miguelasdp?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/miguelasdp?color=FA9700&labelColor=FE8700&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=miguelasdp&label=VISITORS&color=FA9700&style=for-the-badge"/>
+  </div>
 
 -----
 
-<img align="center" alt="Footer2" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=fe7d37&section=footer&textBg=false"/>
+<img align="center" alt="Footer2" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FE8700&section=footer&textBg=false"/>
