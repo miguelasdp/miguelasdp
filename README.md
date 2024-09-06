@@ -28,44 +28,15 @@ Sou estudante de Engenharia de Software na <a href="https://www.pucminas.br/" ta
   
 Minha experiência profissional inclui atuação como <code>Jovem Aprendiz</code> na <a href="https://www.pdcase.com/" target="_blank">PD Case</a> de setembro de 2022 a maio de 2024 e, <code>Estagiário Desenvolvedor</code> na mesma empresa entre maio de 2024 e agosto de 2024. Desenvolvi habilidades técnicas e profissionais, além de me adaptar rapidamente a novos ambientes.
 
+Meus hobbies são os esportes em geral, sou Atleticano, torço para o <a href="https://www.atletico.com.br/" target="_blank">Galo</a>. :rooster:
+
+Inicialmente, sou uma pessoa mais reservada ao conhecer novas pessoas, mas, uma vez estabelecido um vínculo de confiança, me torno mais aberto e expressivo.
+
 Busco sempre aprimorar meus conhecimentos como <code>Dev</code> e como pessoa, além de buscar entender melhor o mercado de trabalho. Valorizo a boa comunicação e o trabalho em equipe, e estou sempre aberto a novos aprendizados e desafios.
 
+
+
 </p>
-</div>
-
------
-
-<div>
-
-<h2><img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/soulgem.gif?raw=true"/> Meus interesses pessoais:</h2>
-
-<table>
-<tr>
- <td align="center" colspan="2"></td>
-</tr> 
-<tr>
-<td>
-<div align="justify">
-<p> 
-- :mortar_board: Na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>, sou <code>aluno</code> no curso de Engenharia de Software.<br />
-- :soccer: Sou Atleticano, torço para o <a href="https://www.atletico.com.br/" target="_blank">Galo</a>. :rooster:<br />
-- :heart: Meus hobbies são esportes em geral e passar tempo com as pessoas que gosto.<br />
-- :speech_balloon: Inicialmente, sou uma pessoa mais reservada ao conhecer novas pessoas, mas, uma vez estabelecido um vínculo de confiança, me torno mais aberto e expressivo.<br />
-- :mailbox: Para me encontrar, este é meu <a href="mailto:miguelasdp7@gmail.com" target="_blank">e-mail</a> pessoal e este é meu <a href="mailto:migue.paula.629314@sga.pucminas.br" target="_blank">e-email</a> corporativo da PUC Minas.<br />
-</p>
-</div>
-</td>
-<td>
-<div>
-<img alt="GIF" src="https://github.com/miguelasdp/miguelasdp/blob/main/img/dev.gif?raw=true" width="300px" height="250px"/>
-</div>
-</td>
-</tr>
-<tr>
- <td align="center" colspan="2"></td>
-</tr> 
-</table>
-
 </div>
 
 -----
