@@ -46,36 +46,21 @@ Busco sempre aprimorar meus conhecimentos como <code>Dev</code> e como pessoa, a
 <h2><img height="20" alt="GIF" src="https://github.com/miguelasdp/miguelasdp/blob/main/img/graphic.gif?raw=true"/>GitHub Stats:</h2>
 
 <div align="center">
-<table>
-  <tr>
-      <h3>🔥 Streak Stats</h3>
+      <h3>🔥 <i>Streak Stats</i></h3>
 
   <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
   <p>
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats-9m8ugfa77-miguelasdp.vercel.app/?user=miguelasdp1&theme=slateorange&hide_border=true"/>
-    </a>
-    <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-dusky.vercel.app?user=miguelasdp&theme=slateorange&hide_border=true&card_width=600" alt="GitHub Streak" /></a>
   </p>
-  </tr>
-</table>
-<table>
-<tr>
-<td>
-<img alt="GitHub Stats" width="300px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=miguelasdp&theme=slateorange"/>
-</td>
-<td>
-<img alt="GitHub Top Langs" width="300px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=miguelasdp&theme=slateorange"/>
-</td>
-</tr>
-</table>
-<table>
-<tr align="center">
-<td>
-<img alt="GitHub Details" width="600px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miguelasdp&theme=slateorange"/>
-</tr>
-</table>
+
+  <h3>💻 <i>Profile Stats</i></h3>
+
+  <!-- https://github.com/anuraghazra/github-readme-stats -->
+
+   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=miguelasdp&show_icons=true&include_all_commits=true&count_private=true&theme=slateorange&hide_border=true&icon_color=F8D866" height="175px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelasdp&langs_count=8&layout=compact&theme=slateorange&hide_border=true&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="175px"/></a>
+  <br/>
+  <br/>
 </div>
 
 -----
