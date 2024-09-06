@@ -90,26 +90,21 @@ Busco sempre aprimorar meus conhecimentos como <code>Dev</code> e como pessoa, a
 <div align="center">
 <table>
 <tr>
- <td align="center" colspan="3"></td>
-</tr> 
-<tr>
 <td>
-<!--- <img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joaopauloaramuni&theme=github_dark"/> -->
-<img alt="GitHub Stats" width="250px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=miguelasdp&theme=github_dark"/>
+<img alt="GitHub Stats" width="300px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=miguelasdp&theme=github_dark"/>
 </td>
 <td>
-<img alt="GitHub Top Langs" width="250px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=miguelasdp&theme=github_dark"/>
-</td>
-<td>
-<img alt="GitHub Details" width="500px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miguelasdp&theme=github_dark"/>
+<img alt="GitHub Top Langs" width="300px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=miguelasdp&theme=github_dark"/>
 </td>
 </tr>
-<tr>
- <td align="center" colspan="3"></td>
-</tr> 
 </table>
-</div>
-
+<table>
+<tr align="center">
+<td>
+<img alt="GitHub Details" width="600px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miguelasdp&theme=github_dark"/>
+</td>
+</tr>
+</table>
 </div>
 
 -----
