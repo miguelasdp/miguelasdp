@@ -109,7 +109,7 @@ Busco sempre aprimorar meus conhecimentos como <code>Dev</code> e como pessoa, a
 
 -----
 
-<img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=miguelasdp&style=for-the-badge&abbreviated=true&color=orange" width=150>
+<img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=miguelasdp&style=for-the-badge&abbreviated=true&color=orange" width=150><br />
 <img alt="Followers" src="https://img.shields.io/github/followers/miguelasdp?style=social" width=125/>
 
 -----
