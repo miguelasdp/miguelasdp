@@ -30,19 +30,6 @@ Minha experiência profissional inclui atuação como <code>Jovem Aprendiz</code
 
 Busco sempre aprimorar meus conhecimentos como <code>Dev</code> e como pessoa, além de buscar entender melhor o mercado de trabalho. Valorizo a boa comunicação e o trabalho em equipe, e estou sempre aberto a novos aprendizados e desafios.
 
-<h2>Experiência Profissional</h2><br>
-<code>Estagiário Desenvolvedor</code>  |  <a href="https://www.pdcase.com/" target="_blank">PD Case</a><br>
-(Maio/2024) - (Agosto/2024)
-
-<code>Jovem Aprendiz</code>  |  <a href="https://www.pdcase.com/" target="_blank">PD Case</a><br>
-(Setembro/2022) - (Maio/2024)
-
-<h2>Formação</h2>
-<code>Engenharia de Software</code>  |  <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a><br>
-1° Período (Previsão de conclusão: Julho de 2028)
-
-<code>Técnico</code>  |  <a href="https://www.cotemig.com.br/" target="_blank">Colegio Cotemig</a><br>
-(Janeiro/2021) - (Dezembro/2023)
 </p>
 </div>
 
