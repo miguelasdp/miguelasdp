@@ -16,7 +16,7 @@
 -----
 
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Miguel</code>, tenho 18 anos, moro em BH e sou programador desde os 16 anos de idade. Atualmente curso <code>Engenharia de Software</code> na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.</i> :man_teacher:<br />
+<i><b>Olá</b> :wave:, sou o <code>Miguel</code>, tenho 18 anos, moro em Belo Horizonte / MG. Atualmente curso <code>Engenharia de Software</code> na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.</i> :man_teacher:<br />
 </div>
 
 -----
