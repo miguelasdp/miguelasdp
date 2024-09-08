@@ -21,7 +21,7 @@
 
 -----
 
-<h2><img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/soulgem.gif?raw=true"/> Sobre mim:</h2>
+<h2><img height="20" alt="GIF" src="https://github.com/miguelasdp/miguelasdp/blob/main/img/soulgem.gif?raw=true"/> Sobre mim:</h2>
 
 <div align="justify"><p>
 Sou estudante de Engenharia de Software na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>, com previsão de conclusão em Julho de 2028. Concluí o Ensino Médio Técnico no <a href="https://www.cotemig.com.br/" target="_blank">Colegio Cotemig</a> entre 2021 e 2023.
