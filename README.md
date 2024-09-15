@@ -57,8 +57,8 @@ Busco sempre aprimorar meus conhecimentos como <code>Dev</code> e como pessoa, a
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=miguelasdp&show_icons=true&include_all_commits=true&count_private=true&theme=slateorange&hide_border=true&icon_color=F8D866" height="175px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelasdp&langs_count=8&layout=compact&theme=slateorange&hide_border=true&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="175px"/></a>
+   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="miguelasdp's Github Stats" src="https://github-readme-stats-miguelasdps-projects.vercel.app/api/?username=miguelasdp&show_icons=true&include_all_commits=true&count_private=true&theme=slateorange&hide_border=true&icon_color=F8D866" height="175px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="miguelasdp's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelasdp&langs_count=8&layout=compact&theme=slateorange&hide_border=true&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="175px"/></a>
   <br/>
   <br/>
 </div>
