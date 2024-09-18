@@ -50,7 +50,7 @@ Busco sempre aprimorar meus conhecimentos como <code>Dev</code> e como pessoa, a
 
   <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
   <p>
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-dusky.vercel.app?user=miguelasdp&theme=slateorange&hide_border=true&card_width=600" alt="GitHub Streak" /></a>
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-miguelasdps.vercel.app?user=miguelasdp&theme=slateorange&hide_border=true&card_width=600" alt="GitHub Streak" /></a>
   </p>
 
   <h3>💻 <i>Profile Stats</i></h3>
