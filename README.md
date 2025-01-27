@@ -16,7 +16,7 @@
 -----
 
 <div align="center">
-<i><b>Olá</b> :wave:, sou o <code>Miguel</code>, tenho 18 anos, moro em Belo Horizonte / MG. Atualmente curso <code>Engenharia de Software</code> na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.</i> :mortar_board:<br />
+<i><b>Olá</b> :wave:, sou o <code>Miguel</code>, tenho 19 anos, moro em Belo Horizonte / MG. Atualmente curso <code>Engenharia de Software</code> na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.</i> :mortar_board:<br />
 </div>
 
 -----
@@ -24,13 +24,9 @@
 <h2><img height="20" alt="GIF" src="https://github.com/miguelasdp/miguelasdp/blob/main/img/soulgem.gif?raw=true"/> Sobre mim:</h2>
 
 <div align="justify"><p>
-Sou um estudante de Engenharia de Software na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>, com previsão de conclusão em Julho de 2028. Concluí o Ensino Médio Técnico no <a href="https://www.cotemig.com.br/" target="_blank">Colegio Cotemig</a> entre 2021 e 2023.
+Sou um estudante de Engenharia de Software na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>, com previsão de conclusão em Julho de 2028. Concluí o Ensino Médio Técnico no <a href="https://www.cotemig.com.br/" target="_blank">Colégio Cotemig</a> entre 2021 e 2023.
   
 Minha experiência profissional inclui atuação como <code>Jovem Aprendiz</code> na <a href="https://www.pdcase.com/" target="_blank">PD Case</a> de setembro de 2022 a maio de 2024 e, <code>Estagiário Desenvolvedor</code> na mesma empresa entre maio de 2024 e agosto de 2024. Desenvolvi habilidades técnicas e profissionais, além de me adaptar rapidamente a novos ambientes.
-
-Meus hobbies são os esportes em geral, sou Atleticano, torço para o <a href="https://www.atletico.com.br/" target="_blank">Galo</a>. :rooster:
-
-Inicialmente, sou uma pessoa mais reservada ao conhecer novas pessoas, mas, uma vez estabelecido um vínculo de confiança, me torno mais aberto e expressivo.
 
 Busco sempre aprimorar meus conhecimentos como <code>Dev</code> e como pessoa, além de buscar entender melhor o mercado de trabalho. Valorizo a boa comunicação e o trabalho em equipe, e estou sempre aberto a novos aprendizados e desafios.
 
