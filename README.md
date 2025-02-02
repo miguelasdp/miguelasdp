@@ -1,71 +1,116 @@
------
+# 👨🏻‍💻 Miguel Alves Sá de Paula
+
 
 <div>
-<img align="center" alt="Header" src="https://github.com/miguelasdp/miguelasdp/blob/main/img/header.png?raw=true"/>
+<i><b>Olá</b> :wave:! Sou estudante de <code>Engenharia de Software</code> pela Faculdade <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>, atualmente no 2° semestre</i> :mortar_board:. Tenho me familiarizado com metodologias ágeis e práticas de engenharia de software, o que me ajuda a contribuir para a melhoria contínua dos processos.<br /><br />
 </div>
 
------
-
-<div align="center">
+<div>
 <a href="https://www.linkedin.com/in/miguelasdp/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:miguelasdp7@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://wa.me/5531971874560" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-<a href="https://github.com/miguelasdp" target="_blank"><img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </div>
 
 -----
 
-<div align="center">
-<i><b>Olá</b> :wave:, sou o <code>Miguel</code>, tenho 19 anos, moro em Belo Horizonte / MG. Atualmente curso <code>Engenharia de Software</code> na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.</i> :mortar_board:<br />
-</div>
+### 👾 Tech Skills
+
+<div display="flex">
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Bootstrap"
+    title="Bootstrap" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="VSCode" 
+    title="VSCode"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
+/>
+<img
+    align="left" 
+    alt="C" 
+    title="C"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Figma" 
+    title="Figma"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
+/>
+       
+<br/>
+<br/>
+
 
 -----
 
-<h2><img height="20" alt="GIF" src="https://github.com/miguelasdp/miguelasdp/blob/main/img/soulgem.gif?raw=true"/> Sobre mim:</h2>
+### 🐱‍🏍 Estatísticas
 
-<div align="justify"><p>
-Sou um estudante de Engenharia de Software na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>, com previsão de conclusão em Julho de 2028. Concluí o Ensino Médio Técnico no <a href="https://www.cotemig.com.br/" target="_blank">Colégio Cotemig</a> entre 2021 e 2023.
-  
-Minha experiência profissional inclui atuação como <code>Jovem Aprendiz</code> na <a href="https://www.pdcase.com/" target="_blank">PD Case</a> de setembro de 2022 a maio de 2024 e, <code>Estagiário Desenvolvedor</code> na mesma empresa entre maio de 2024 e agosto de 2024. Desenvolvi habilidades técnicas e profissionais, além de me adaptar rapidamente a novos ambientes.
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats 1" 
+    height="170" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=miguelasdp&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
-Busco sempre aprimorar meus conhecimentos como <code>Dev</code> e como pessoa, além de buscar entender melhor o mercado de trabalho. Valorizo a boa comunicação e o trabalho em equipe, e estou sempre aberto a novos aprendizados e desafios.
-
-
+<img  
+    align="left"
+    alt="GitHub Stats 2" 
+    height="170" 
+    style="padding-top: 10px;"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelasdp&theme=tokyonight&layout=compact&langs_count=9&locale=pt-br" 
+  />
 
 </p>
-</div>
 
------
-
-<div>
-
-<h2><img height="20" alt="GIF" src="https://github.com/miguelasdp/miguelasdp/blob/main/img/graphic.gif?raw=true"/>GitHub Stats:</h2>
-
-<div align="center">
-      <h3>🔥 <i>Streak Stats</i></h3>
-
-  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-  <p>
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-miguelasdps-projects.vercel.app?user=miguelasdp&theme=slateorange&hide_border=true&card_width=600" alt="GitHub Streak" /></a>
-  </p>
-
-  <h3>💻 <i>Profile Stats</i></h3>
-
-  <!-- https://github.com/anuraghazra/github-readme-stats -->
-
-   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="miguelasdp's Github Stats" src="https://github-readme-stats-miguelasdps-projects.vercel.app/api/?username=miguelasdp&show_icons=true&include_all_commits=true&count_private=true&theme=slateorange&hide_border=true&icon_color=F8D866" height="175px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="miguelasdp's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelasdp&langs_count=8&layout=compact&theme=slateorange&hide_border=true&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="175px"/></a>
-  <br/>
-  <br/>
-</div>
-
------
-  <div align="center">
-  <a href="https://github.com/miguelasdp?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/miguelasdp?color=FA9700&labelColor=FE8700&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=miguelasdp&label=VISITORS&color=FA9700&style=for-the-badge"/>
-  </div>
-
------
-
-<img align="center" alt="Footer2" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FE8700&section=footer&textBg=false"/>
+<img
+   align="left"
+   alt="activity-graph graph" 
+   height="289"
+   style="padding-top: 10px;"
+   src="https://github-readme-activity-graph.vercel.app/graph?username=miguelasdp&radius=16&theme=github-dark&area=true&order=5&hide_title=false&hide_border=true"
+ />
