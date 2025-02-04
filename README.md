@@ -86,7 +86,7 @@
 
 -----
 
-### 🐱‍🏍 Estatísticas
+### 📊 Estatísticas
 
 <p>
   <img 
