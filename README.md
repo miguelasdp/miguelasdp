@@ -2,7 +2,7 @@
 
 
 <div>
-<i><b>Olá</b> :wave:! Sou estudante de <code>Engenharia de Software</code> pela Faculdade <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>, atualmente no 2° semestre</i> :mortar_board:. Tenho me familiarizado com metodologias ágeis e práticas de engenharia de software, o que me ajuda a contribuir para a melhoria contínua dos processos.<br /><br />
+<i><b>Olá</b> :wave:! Sou estudante de <code>Engenharia de Software</code> pela Faculdade <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>, atualmente no 2° semestre</i> :mortar_board:.<br /><br />
 </div>
 
 <div>
@@ -81,8 +81,32 @@
 />
 <img 
     align="left" 
-    alt="SQL" 
-    title="SQL"
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Spring Boot" 
+    title="Spring Boot"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="IntelliJ" 
+    title="IntelliJ"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="MySQL" 
+    title="MySQL"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
