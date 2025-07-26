@@ -1,4 +1,4 @@
-#  Miguel Alves Sá de Paula
+#  Miguel Alves
 
 **`Software Engineer`**
 
